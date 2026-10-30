@@ -1,8 +1,8 @@
 # Locadora Estrada Livre
 
 ## Integrantes
-- Nome 1:
-- Nome 2:
+- Nome 1:Jonatan Viana Gomes
+- Nome 2:Thiago Gotti Rapozo
 - Nome 3:
 
 ## Projeto
